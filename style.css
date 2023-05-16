@@ -1,3 +1,38 @@
 body {
-
+  font-family: system-ui;
+  background: #772D8B;
+  color: white;
+  text-align: center;
+}
+h1{
+  color: #5A0B4D;
+  font-size: 500;
+  letter-spacing: 2px;
+  text-decoration: line-through;
+}
+p{
+  color: #5A0B4D;
+  font-size: 200;
+}
+img{
+  width: 40%;
+  border-style: double;
+  border-color: #C713A9;
+}
+ul{
+  list-style-type: none;
+  position: fixed;
+  text-align: center;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 30px;
+  color: #C713A9;
+  font-family: "Monaco", Monospace;
+  border: dashed;
+}
+li a:hover{
+  background-color: #5A0B4D; 
 }
