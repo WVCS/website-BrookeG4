@@ -8,7 +8,7 @@ h1{
   color: #5A0B4D;
   font-size: 50px;
   letter-spacing: 2px;
-  text-decoration: line-through;
+  text-decoration: underline;
 }
 p{
   color: #5A0B4D;
